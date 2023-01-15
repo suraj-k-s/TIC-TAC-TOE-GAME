@@ -22,7 +22,7 @@ $ npm install
 $ npm start
 ```
 ## :link: Demo
-  - <a target="_blank" href="https://suraj-k-s.github.io/TIC-TAC-TOE-GAME/"> Click Here </a> to see and play by yourself a demo of the game.
+  - <a target="_blank" href="https://www.surajks.com/Collection/Gallery/TIC-TAC-TOE/"> Click Here </a> to see and play by yourself a demo of the game.
 
 ## :mailbox: Contact
   - <a target="_blank" href="mailto:surajks28101999@gmail.com">E-mail</a>
